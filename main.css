@@ -1,0 +1,22 @@
+body { 
+  background-color: antiquewhite;
+  color: black;
+}
+#VUMC {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: dashed grey 2px;
+}
+#HCA {
+  font-family: fantasy;
+  margin-top: 2px;
+  border: tomato 8px;
+  border-style: ridge;
+}
+#Holley {
+  font-family: cursive;
+  border: solid yellowgreen 4px;
+  margin-top: 2px;
+}
+h1 {
+  color: mediumseagreen;
+}
